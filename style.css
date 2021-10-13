@@ -1,0 +1,37 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+.student-id{
+    margin-top: 5%;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+tr {
+    font-size: 25px;
+}
+
+table {
+    width: 80%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  .banner {
+      margin-top: 5%;
+  }
+
+  img {
+    width: 50%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
